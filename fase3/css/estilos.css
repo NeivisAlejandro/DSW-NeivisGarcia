@@ -1,11 +1,11 @@
 header{
-    background-color: #7900FF;
+    background-color: #BC8CF2;
  }
 nav{ 
-    background-color: #7CD1B8;
+    background-color: #FFEFEF;
 }
 section{ 
-    background-color: #FABB51;
+    background-color: #D9D7F1;
     grid-column: 1/4;
 }
 aside{
@@ -13,7 +13,7 @@ aside{
     grid-column: 4/5;
  }
 footer{
-    background-color: #87AAAA;
+    background-color: #71DFE7;
  }
  main{ 
      display: grid;
@@ -33,14 +33,14 @@ footer{
     float:left;
 }
 .menu li a{
-    background-color: black;
+    background-color: #072227;
     color: #fff;
     text-decoration: none;
     padding: 20px 80px;
     display: block;   
 }
 .menu li a:hover{
-    background-color: chocolate;
+    background-color: #FF008E;
 }
 .menu li ul{
     display:none;
